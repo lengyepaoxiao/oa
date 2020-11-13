@@ -1,0 +1,14 @@
+.weui-cell__hd {
+    height: 34px;
+}
+.weui-cell__hd img {
+    margin-right: 15px;
+}
+
+ .layui-flow-more {
+    color: #999;
+    font-size: 14px;
+    margin: 10px 0;
+    text-align: center;
+    width: 100%;
+}
